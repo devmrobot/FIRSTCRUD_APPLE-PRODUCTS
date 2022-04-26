@@ -1,4 +1,6 @@
 *.mysql linguist-detectable=true  
 *.express linguist-detectable=true
 *.node linguist-detectable=true
-*.html linguist-detectable=false    
+*.html linguist-detectable=false
+*.js linguist-detectable=false   
+*.JavaScript linguist-detectable=false   
