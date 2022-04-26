@@ -1,4 +1,5 @@
 *.mysql linguist-detectable=true  
+*.MySQL linguist-detectable=true  
 *.express linguist-detectable=true
 *.node linguist-detectable=true
 *.html linguist-detectable=false
